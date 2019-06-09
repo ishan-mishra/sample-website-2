@@ -6,7 +6,7 @@ I am an astronomy graduate student at Cornell University. Learn more about my in
 
 This website has been made using Markdown. I use the [editor on GitHub](https://github.com/ishan-mishra/sample-website-2/edit/master/index.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in your Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in my Markdown files.
 
 ### What is Markdown?
 
