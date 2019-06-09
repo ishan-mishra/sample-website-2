@@ -2,7 +2,7 @@
 
 ## Welcome to my Website!
 
-I am an astronomy graduate student at Cornell University. Learn more about my interests [here](/about/about.md). To learn more about my background, check out my [CV](/CV.pdf). 
+I am an astronomy graduate student at Cornell University. Learn more about my interests [here](/about.md). To learn more about my background, check out my [CV](/CV.pdf). 
 
 This website has been made using Markdown. I use the [editor on GitHub](https://github.com/ishan-mishra/sample-website-2/edit/master/index.md) to maintain and preview the content for my website in Markdown files.
 
