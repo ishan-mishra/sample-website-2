@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+<!-- code borrowed from tutorial by Jonathan McGlone at http://jmcglone.com/guides/github-pages/ -->
 
-You can use the [editor on GitHub](https://github.com/ishan-mishra/sample-website-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my Website!
+
+I am an astronomy graduate student at Cornell University. Learn more about my interests [here](/about/about.md). To learn more about my background, check out my [CV](/CV.pdf). 
+
+You can use the [editor on GitHub](https://github.com/BastienBrugger/BastienBrugger.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -30,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ishan-mishra/sample-website-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BastienBrugger/BastienBrugger.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
