@@ -2,7 +2,7 @@
 
 ## Welcome to my Website!
 
-I am an astronomy graduate student at Cornell University. Learn more about my interests [here](/about/about.md). To learn more about my background, check out my [CV](/cv/CV.pdf). 
+I am an astronomy graduate student at Cornell University. Learn more about my interests [here](/about/about.md). To learn more about my background, check out my [CV](/CV.pdf). 
 
 You can use the [editor on GitHub](https://github.com/BastienBrugger/BastienBrugger.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
