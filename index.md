@@ -1,5 +1,3 @@
-<!-- code borrowed from tutorial by Jonathan McGlone at http://jmcglone.com/guides/github-pages/ -->
-
 ## Welcome to my Website!
 
 I am an astronomy graduate student at Cornell University. Learn more about my interests [here](/about.md). To learn more about my background, check out my [CV](/CV.pdf). 
